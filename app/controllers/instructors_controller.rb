@@ -1,0 +1,3 @@
+class InstructorsController < ApplicationController
+   
+end
